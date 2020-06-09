@@ -62,3 +62,4 @@ if not os.path.exists(path):
     os.makedirs(path)
 Pixel(path, string)
 
+
